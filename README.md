@@ -1,5 +1,5 @@
-# T-FLIPFLOP-POSEDGE
-
+# EXP 9: T-FLIPFLOP-POSEDGE
+# DATE: 21st Nov 2024
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
